@@ -1,0 +1,10 @@
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Release\TimeTableWindowsConsole.exe.config
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Release\TimeTableWindowsConsole.exe
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Release\TimeTableWindowsConsole.pdb
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Release\Newtonsoft.Json.dll
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Release\Newtonsoft.Json.xml
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Release\TimeTableWindowsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Release\TimeTableWindowsConsole.csproj.CopyComplete
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Release\TimeTableWindowsConsole.exe
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Release\TimeTableWindowsConsole.pdb

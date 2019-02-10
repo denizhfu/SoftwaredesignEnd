@@ -1,0 +1,11 @@
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Debug\TimeTableWindowsConsole.exe.config
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Debug\TimeTableWindowsConsole.exe
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Debug\TimeTableWindowsConsole.pdb
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Debug\TimeTableWindowsConsole.csprojAssemblyReference.cache
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Debug\TimeTableWindowsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Debug\TimeTableWindowsConsole.exe
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Debug\TimeTableWindowsConsole.pdb
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samir.Al-Skaf\Desktop\TimeTableWindowsConsole\TimeTableWindowsConsole\obj\Debug\TimeTableWindowsConsole.csproj.CopyComplete
